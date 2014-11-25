@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace VNStock.Controllers
 {
-    public class HomeController : Controller
+    public class HomePageController : Controller
     {
         //
-        // GET: /Home/
+        // GET: /HomePage/
 
         public ActionResult Index()
         {
